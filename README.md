@@ -1,4 +1,4 @@
-### Hi there,I'm Sadegh Khoshbayan 👋
+### Hi there, I'm Sadegh Khoshbayan 👋
 ⚡ interested in getting to know more about the technologies to implement new ideas and also intesrested in teamworking.<br>
 🌱 I'm currently learning the <b>Django</b> framework.
 
