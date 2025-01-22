@@ -1,17 +1,29 @@
-### Hi there, I'm Sadegh Khoshbayan 👋
-⚡ interested in getting to know more about the technologies to implement new ideas and also intesrested in teamworking.<br>
+# Hi there, I'm Sadegh 👋
 
-<!--
-**Sadegh-kh/Sadegh-kh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://gpvc.arturio.dev/Sadegh-kh)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer with a keen interest in software development, open-source contributions, and continuous learning. I enjoy solving complex problems, building scalable solutions, and collaborating with the developer community.
+
+- 🌱 I’m currently learning go and web develop techniques.
+- 📫 How to reach me: [Email](sadeghkhoshbayancode@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sadegh-khoshbayan/)
+- ⚡ Fun fact: I love game, watch movie and play violin in my free time.
+
+## 🛠️ Technologies & Tools
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sadegh-kh&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadegh-kh&theme=radical" />
+</p>
+
