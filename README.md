@@ -1,7 +1,5 @@
 # Hi there, I'm Sadegh 👋
 
-![Profile views](https://gpvc.arturio.dev/Sadegh-kh)
-
 ## About Me
 
 I'm a passionate developer with a keen interest in software development, open-source contributions, and continuous learning. I enjoy solving complex problems, building scalable solutions, and collaborating with the developer community.
@@ -24,6 +22,5 @@ I'm a passionate developer with a keen interest in software development, open-so
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sadegh-kh&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadegh-kh&theme=radical" />
 </p>
 
