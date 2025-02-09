@@ -12,7 +12,6 @@ I'm a passionate developer with a keen interest in software development, open-so
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
