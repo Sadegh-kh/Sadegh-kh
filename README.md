@@ -6,7 +6,7 @@ I'm a passionate developer with a keen interest in software development, open-so
 
 - 🌱 I’m currently learning go and web develop techniques.
 - 📫 How to reach me: [Email](sadeghkhoshbayancode@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sadegh-khoshbayan/)
-- ⚡ Fun fact: I love game, watch movie my free time.
+- ⚡ Fun fact: I love game and watch movie my free time.
 
 ## 🛠️ Technologies & Tools
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
